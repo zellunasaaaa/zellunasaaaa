@@ -2,7 +2,7 @@
 A- 👀 I’m interested in AI programer
 - 🌱 I’m currently learning sistem deep learning
 - 💞️ I’m looking to collaborate on internship at pt nodeflux
-- 📫 How to reach me zellunasalwa@gmail.com
+- 📫 reach me zellunasalwa@gmail.com
 
 <!---
 zellunasaaaa/zellunasaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
